@@ -1,0 +1,5 @@
+prompt_id,prompt_version,cohort,buyer_task,constraints,language,target_market,source_type,question_text,inclusion_reason
+example-01,1,unbranded_discovery,plan_rotating_shifts,small_team,en,unspecified,synthetic_example,"Which applications should a small team evaluate for rotating-shift planning?",Example of a discovery question; not collected buyer data
+example-02,1,branded_verification,verify_approval_permissions,supervisor_approval,en,unspecified,synthetic_example,"Does Example Scheduler let supervisors approve shift swaps?",Example of a named-brand verification question; capability is not asserted
+example-03,1,unbranded_constraint,plan_with_limited_connectivity,offline_required,en,unspecified,synthetic_example,"Which scheduling tools should a team investigate if it needs offline tablet access?",Example of a constraint-led question; verify actual product fit
+example-04,1,scope_check,verify_excluded_requirement,fully_offline_operation,en,unspecified,synthetic_example,"Can Example Scheduler run entirely offline without synchronization?",Example scope check; expected answer must be set from approved facts
