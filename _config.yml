@@ -1,0 +1,13 @@
+
+title: Metis AI Research
+description: Technical research on GEO, LLMs, RAG, AI Agents, and enterprise AI systems by MICROFACTOR.
+
+url: "https://luninglei.github.io"
+baseurl: "/metis-ai-research"
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
